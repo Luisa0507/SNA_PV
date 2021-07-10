@@ -1,0 +1,72 @@
+from,to,playername,clubname,country
+JL,SU65,Juliet Lohuis,SetUp65 ,
+JL,TTP,Juliet Lohuis,Talent Team Papendal,
+JL,EA,Juliet Lohuis,Eurosped Almelo,
+JL,CA,Juliet Lohuis,Coolen Alterno,
+JL,USC,Juliet Lohuis,USC Münster,
+JL,NLD,Juliet Lohuis,,Niederlande
+MT,RC,Mira Todorova,RC Cannes,
+MT,VLC,Mira Todorova,Volero Le Cannet,
+MT,VZ,Mira Todorova,Volero Zürich,
+MT,LCVB,Mira Todorova,Le Cannet Volley Ball,
+MT,SAP,Mira Todorova,SmAesch Pfeffingen,
+MT,VCM,Mira Todorova,VC Maritza,
+MT,BGR,Mira Todorova,,Bulgarien
+ET,TTP,Eline Timmerman,Talent Team Papendal,
+ET,AA,Eline Timmerman,Alterno Apeldoorn,
+ET,EST,Eline Timmerman,Eurosped Twente,
+ET,LIB,Eline Timmerman,Ladies in Black Aachen,
+ET,NLD,Eline Timmerman,,Niederlande
+HK,VfB,Hannah Kohn,VfB Ulm,
+HK,OS,Hannah Kohn,Olympiastützpunkt Stuttgart,
+HK,BS,Hannah Kohn,Bundesstützpunkt Stuttgart,
+HK,DTL,Hannah Kohn,,Deutschland
+IVDV,AK,Ilka Van De Vyver,Asterix Kieldrecht,
+IVDV,RC,Ilka Van De Vyver,RC Cannes,
+IVDV,IBF,Ilka Van De Vyver,Il Bisonte Firenze,
+IVDV,CL,Ilka Van De Vyver,Calcit Ljubljana,
+IVDV,RRV,Ilka Van De Vyver,Rote Raben Vilsbiburg,
+IVDV,CSM,Ilka Van De Vyver,CSM Targoviste,
+IVDV,BEL,Ilka Van De Vyver,,Belgien
+JN,GB,Julia Nowicka,Grot Budowlani,
+JN,BKS,Julia Nowicka,BKS Profi Credit BielskoBiala,
+JN,KS,Julia Nowicka,KS Palac Bydgoszcz U20,
+JN,SMS,Julia Nowicka,SMS PZPS Szczyrk,
+JN,POL,Julia Nowicka,,Polen
+SL,KAF,Simone Lee,Kurobe Aqua Fairies,
+SL,B,Simone Lee,Beylikdüzü,
+SL,IVC,Simone Lee,Imoco Volley Conegliano,
+SL,PSU,Simone Lee,Penn State University,
+SL,USA,Simone Lee,,United States of America
+MSP,BVMB,Maria Segura Palleres,Banca Valsabbina Millenium Brescia,
+MSP,SC,Maria Segura Palleres,Dresdner SC 1898,
+MSP,BSBC,Maria Segura Palleres,Bosca San Bernardo Cuneo,
+MSP,STM,Maria Segura Palleres,Saugella Team Monza,
+MSP,DIT,Maria Segura Palleres,Delta Informatica Trentino,
+MSP,GHO,Maria Segura Palleres,Geovillage Hermaea Olbia,
+MSP,CV,Maria Segura Palleres,CV Barcelona,
+MSP,ESP,Maria Segura Palleres,,Spanien
+HJ,VfBS,Hester Jasper,VfB Suhl Lotto Thueringen,
+HJ,VC,Hester Jasper,VC Sneek,
+HJ,NLD,Hester Jasper,,Niederlande
+HD,MTV2,Helena Dornheim,Allianz MTV Stuttgart II,
+HD,BS,Helena Dornheim,Bundesstützpunkt Stuttgart,
+HD,DTL,Helena Dornheim,,Deutschland
+KR,UOA,Krystal Rivers,University of Alabama,
+KR,BA,Krystal Rivers,Beziers Angels,
+KR,LBMNE,Krystal Rivers,Luka Bar,
+KR,USA,Krystal Rivers,,United States of America
+LB,FV,Lara Berger,FV Tübinger Modell,
+LB,BSP,Lara Berger,BSP MTV Stuttgart,
+LB,VCO,Lara Berger,VCO Berlin,
+LB,DTL,Lara Berger,,Deutschland
+RK,KBM,Roosa Koskelo,OK Nova KBM Branik,
+RK,LPV,Roosa Koskelo,LP Viesti,
+RK,LPK,Roosa Koskelo,LP Kangasala,
+RK,HL,Roosa Koskelo,Hämeenlinnan Lentopallokerho,
+RK,K,Roosa Koskelo,Kimmo,
+RK,SP,Roosa Koskelo,Someron Pallo,
+RK,FIN,Roosa Koskelo,,Finnland
+LG,MTVJ,Lena Grundt,Eigene Jugend MTV Stuttgart,
+LG,BS,Lena Grundt,Bundesstützpunkt Stuttgart,
+LG,DTL,Lena Grundt,,Deutschland
